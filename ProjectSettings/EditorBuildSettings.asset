@@ -8,6 +8,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/ExamenC_02.unity
+    guid: 8446c8a36c198df45a4825a87e7b425e
+  - enabled: 1
+    path: Assets/Scenes/ExamenC_01.unity
+    guid: a3ce83f2adcbf4015bad87a5f4260719
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 1419986ba3ee07a4aaec19182e03528d,
       type: 2}
